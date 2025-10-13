@@ -55,7 +55,7 @@ La versión funcional de la aplicación está disponible en:
 
 
 ## Equipo de Desarrollo
-  - Fernando Concha
+  - [Fernando Concha ](https://github.com/estardacs)
   - Maximiliano Manzur
-  - Osiris Díaz
+  - [Osiris Díaz](https://github.com/Osiries1111)
 
