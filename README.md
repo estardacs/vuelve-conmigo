@@ -1,4 +1,4 @@
-# Proyecto IIC2143 Ingeniería de Software (2024-1)
+# Vuelve Conmigo
 
 ## Descripción
 La aplicación es una plataforma de viajes compartidos diseñada específicamente para la comunidad universitaria de la Pontificia Universidad Católica de Chile. Su propósito principal es facilitar que estudiantes, profesores y personal universitario puedan coordinar viajes compartidos hacia y desde los diferentes campus universitarios.
