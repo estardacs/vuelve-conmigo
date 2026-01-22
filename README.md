@@ -5,7 +5,7 @@ La aplicación es una plataforma de viajes compartidos diseñada específicament
 
 ## Aplicación Desplegada
 La versión funcional de la aplicación está disponible en:
-[https://proyecto-ing-software-9gsq.onrender.com/](https://proyecto-ing-software-9gsq.onrender.com/)
+[https://vuelve-conmigo.onrender.com/](https://vuelve-conmigo.onrender.com/)
 
 ## Tecnologías Utilizadas
 - Ruby on Rails
